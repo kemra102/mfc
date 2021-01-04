@@ -4,4 +4,4 @@ set AWS_DEFAULT_REGION eu-west-1
 set AWS_PAGER ''
 
 # Technically for aws-vault not AWS itself
-set -x AWS_VAULT_BACKEND kdewallet
+set -x AWS_VAULT_BACKEND kwallet
